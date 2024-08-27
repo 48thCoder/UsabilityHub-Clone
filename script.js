@@ -1,0 +1,1 @@
+alert("DISCLAIMER : This website is just a simple clone of the original website of Usability Hub. If in case any content is found incorrect or missing, please let us know. Thanks for using Usability Hub : )");
